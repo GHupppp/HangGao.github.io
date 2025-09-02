@@ -51,23 +51,23 @@ interests:
 education:
   - area: Ph.D. Student in Computer Science
     institution: Rutgers, The State University of New Jersey - New Brunswick
-    date_start: 2022-09
+    date_start: 2022-09-01
     date_end: Present
   - area: Master of Computer Science 
     institution: Syracuse University
-    date_start: 2020-09
-    date_end: 2022-05
+    date_start: 2020-09-01
+    date_end: 2022-05-31
   - area: B.Eng. in Logistics Engineering 
     institution: Jilin University
-    date_start: 2016-09
-    date_end: 2020-5
+    date_start: 2016-09-01
+    date_end: 2020-5-31
 work:
   - position: Research Intern
     company_name: NEC Laboratories America, Princeton, NJ 
     company_url: https://www.nec-labs.com/research/media-analytics/
     company_logo: ''
-    date_start: 2025-05
-    date_end: 2025-08
+    date_start: 2025-05-19
+    date_end: 2025-08-15
     summary: Efficient GraphRAG for Domain-Specific QA
 
 # Skills
