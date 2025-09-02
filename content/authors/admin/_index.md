@@ -52,7 +52,7 @@ education:
   - area: Ph.D. Student in Computer Science
     institution: Rutgers, The State University of New Jersey - New Brunswick
     date_start: 2022-09-01
-    date_end: ‘’
+    date_end: ''
   - area: Master of Computer Science 
     institution: Syracuse University
     date_start: 2020-09-01
@@ -60,7 +60,7 @@ education:
   - area: B.Eng. in Logistics Engineering 
     institution: Jilin University
     date_start: 2016-09-01
-    date_end: 2020-5-31
+    date_end: 2020-05-31
 work:
   - position: Research Intern
     company_name: NEC Laboratories America, Princeton, NJ 
