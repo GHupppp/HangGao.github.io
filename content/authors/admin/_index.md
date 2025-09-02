@@ -52,7 +52,7 @@ education:
   - area: Ph.D. Student in Computer Science
     institution: Rutgers, The State University of New Jersey - New Brunswick
     date_start: 2022-09-01
-    date_end: Present
+    date_end: ‘’
   - area: Master of Computer Science 
     institution: Syracuse University
     date_start: 2020-09-01
